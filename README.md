@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
-2. [Key Objectives](#2-Key Objectives)
+2. [Key Objectives](#2-key-bjectives)
 3. [Technologies Used](#3-technologies-used)
 4. [Methodology](#4-methodology)
 5. [Key Components](#5-key-components)
@@ -17,16 +17,16 @@
 The "Predicting Frequent Diseases" project leverages the power of supervised machine learning algorithms to enhance disease prediction and early detection. The primary goal is to develop a robust and accurate system that can predict the likelihood of individuals developing specific diseases based on relevant input features.
 
 ## 2. Key Objectives
-### 1-Early Detection:
+##### -Early Detection:
 
 Identify potential health risks and diseases at an early stage.
 Enable proactive healthcare measures for timely intervention.
 
-### 2-Feature Selection and Importance:
+##### -Feature Selection and Importance:
 
 Explore and select relevant input features crucial for accurate disease prediction.
 Understand the importance of each feature in the prediction process.
-### 3-User-Friendly Interface:
+##### -User-Friendly Interface:
 
 Develop an intuitive and user-friendly interface for easy interaction with the prediction system.
 Provide clear insights and explanations for predicted outcomes.
