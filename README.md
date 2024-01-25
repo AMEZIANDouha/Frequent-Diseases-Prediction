@@ -10,7 +10,7 @@
 6. [How to Run](#6-how-to-run)
 7. [Acknowledgments](#7-acknowledgments)
 8. [Conclusion](#8-conclusion)
-9. [Contacts](#9-contacts)
+9. [Contact](#9-contact)
 
 ## 1. Project Overview
 
