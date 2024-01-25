@@ -90,7 +90,7 @@ In conclusion, the "Predicting Frequent Diseases" project represents a significa
 
 For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
 
- **Name      :**    AMEZIAN Douha  
- **Email     :**   [ameziandouha9@gmail.com](ameziandouha9@gmail.com)  
- **LinkedIn  :**  [AMEZIAN Douha](https://www.linkedin.com/in/douha-amezian-033629280/)  
+- **Name      :**    AMEZIAN Douha  
+- **Email     :**   [ameziandouha9@gmail.com](ameziandouha9@gmail.com)  
+- **LinkedIn  :**  [AMEZIAN Douha](https://www.linkedin.com/in/douha-amezian-033629280/)  
 
