@@ -72,3 +72,6 @@ Conduct rigorous testing to ensure the generalization of the models to new, unse
 Design and implement a user-friendly interface to interact with the disease prediction system.
 Incorporate visualization tools for better understanding of predictions.
 
+## 6. How to run:
+## 7. Acknowledgments:
+## 8. Contact :
