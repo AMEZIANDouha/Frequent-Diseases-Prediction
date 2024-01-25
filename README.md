@@ -8,7 +8,7 @@
 4. [Methodology](#4-methodology)
 5. [Key Components](#5-key-components)
 6. [How to Run](#6-how-to-run)
-7. [Acknowledgments](#7-acknowledgments)
+7. [Acknowledgment](#7-acknowledgment)
 8. [Conclusion](#8-conclusion)
 9. [Contact](#9-contact)
 
@@ -72,22 +72,25 @@ Conduct rigorous testing to ensure the generalization of the models to new, unse
 Design and implement a user-friendly interface to interact with the disease prediction system.
 Incorporate visualization tools for better understanding of predictions.
 
-## 6. How to run:
+## 6. How to run
 1. **Clone the Repository:**
 
    Use the following command to clone the repository:
 
    ```bash
    git clone git@github.com:AMEZIANDouha/Frequent-Diseases-Prediction.git
-## 7. Acknowledgments:
+   
+## 7. Acknowledgment
 A special thanks to the open-source community for developing and maintaining the tools, libraries, and frameworks used in this project.
-## 8. Conclusion :
+
+## 8. Conclusion
 In conclusion, the "Predicting Frequent Diseases" project represents a significant stride toward revolutionizing healthcare through the integration of advanced machine learning techniques. By harnessing the power of supervised learning algorithms, this project aims to transform disease prediction into a proactive and precise process.
-## 9. Contact :
+
+## 9. Contact
 
 For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
 
-1. **Name:** AMEZIAN Douha
-2. **Email:** [ameziandouha9@gmail.com](ameziandouha9@gmail.com)
-3. **LinkedIn:** [AMEZIAN Douha](linkedin.com/in/douha-amezian-033629280)
+ **Name:** AMEZIAN Douha
+ **Email:** [ameziandouha9@gmail.com](ameziandouha9@gmail.com)
+ **LinkedIn:** [AMEZIAN Douha](linkedin.com/in/douha-amezian-033629280)
 
