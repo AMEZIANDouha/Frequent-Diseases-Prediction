@@ -73,6 +73,12 @@ Design and implement a user-friendly interface to interact with the disease pred
 Incorporate visualization tools for better understanding of predictions.
 
 ## 6. How to run:
+1. **Clone the Repository:**
+
+   Use the following command to clone the repository:
+
+   ```bash
+   git clone git@github.com:AMEZIANDouha/Frequent-Diseases-Prediction.git
 ## 7. Acknowledgments:
 ## 8. Conclusion :
 ## 9. Contact :
