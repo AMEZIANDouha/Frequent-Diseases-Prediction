@@ -7,10 +7,11 @@
 3. [Technologies Used](#3-technologies-used)
 4. [Methodology](#4-methodology)
 5. [Key Components](#5-key-components)
-6. [How to Run](#6-how-to-run)
-7. [Acknowledgment](#7-acknowledgment)
-8. [Conclusion](#8-conclusion)
-9. [Contact](#9-contact)
+6. [Interface](#6-interface)
+7. [How to Run](#7-how-to-run)
+8. [Acknowledgment](#8-acknowledgment)
+9. [Conclusion](#9-conclusion)
+10. [Contact](#10-contact)
 
 ## 1. Project Overview
 
@@ -71,8 +72,15 @@ Conduct rigorous testing to ensure the generalization of the models to new, unse
 
 Design and implement a user-friendly interface to interact with the disease prediction system.
 Incorporate visualization tools for better understanding of predictions.
+## 6. Interface
+![image](https://github.com/AMEZIANDouha/Frequent-Diseases-Prediction/assets/157490377/9a72279c-2fde-4fb6-beae-7ea493f9cfeb)
 
-## 6. How to run
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/AMEZIANDouha/Frequent-Diseases-Prediction/assets/157490377/3ee99bf6-809d-45dc-9522-ecf528669921)
+
+
+## 7. How to run
 1. **Clone the Repository:**
 
    Use the following command to clone the repository:
@@ -80,13 +88,13 @@ Incorporate visualization tools for better understanding of predictions.
    ```bash
    git clone git@github.com:AMEZIANDouha/Frequent-Diseases-Prediction.git
    
-## 7. Acknowledgment
+## 8. Acknowledgment
 A special thanks to the open-source community for developing and maintaining the tools, libraries, and frameworks used in this project.
 
-## 8. Conclusion
+## 9. Conclusion
 In conclusion, the "Predicting Frequent Diseases" project represents a significant stride toward revolutionizing healthcare through the integration of advanced machine learning techniques. By harnessing the power of supervised learning algorithms, this project aims to transform disease prediction into a proactive and precise process.
 
-## 9. Contact
+## 10. Contact
 
 For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
 
