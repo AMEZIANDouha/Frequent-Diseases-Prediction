@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-1. [Project Overview](#1-project-overview)
-2. [Key Objectives](#2-key-bjectives)
-3. [Technologies Used](#3-technologies-used)
-4. [Methodology](#4-methodology)
-5. [Key Components](#5-key-components)
-6. [Interface](#6-interface)
-7. [How to Run](#7-how-to-run)
-8. [Acknowledgment](#8-acknowledgment)
-9. [Conclusion](#9-conclusion)
+01. [Project Overview](#1-project-overview)
+02. [Key Objectives](#2-key-bjectives)
+03. [Technologies Used](#3-technologies-used)
+04. [Methodology](#4-methodology)
+05. [Key Components](#5-key-components)
+06. [Interface](#6-interface)
+07. [How to Run](#7-how-to-run)
+08. [Acknowledgment](#8-acknowledgment)
+09. [Conclusion](#9-conclusion)
 10. [Contact](#10-contact)
 
 ## 1. Project Overview
